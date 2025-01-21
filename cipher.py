@@ -12,3 +12,4 @@ print(type(shift))
 
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 alphabet.find('z')
+alphabet.find(text[0])
