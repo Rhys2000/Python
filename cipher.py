@@ -13,3 +13,4 @@ print(type(shift))
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 alphabet.find('z')
 index = alphabet.find(text[0])
+print(index)
