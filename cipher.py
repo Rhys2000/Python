@@ -14,3 +14,4 @@ alphabet = "abcdefghijklmnopqrstuvwxyz"
 alphabet.find('z')
 index = alphabet.find(text[0])
 print(index)
+print(text.lower())
