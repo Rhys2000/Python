@@ -17,3 +17,4 @@ print(index)
 print(text.lower())
 shifted = alphabet[index]
 print(shifted)
+shifted = alphabet[index + shift]
