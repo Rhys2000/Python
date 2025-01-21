@@ -15,3 +15,4 @@ alphabet.find('z')
 index = alphabet.find(text[0].lower())
 print(index)
 print(text.lower())
+shifted = alphabet[index]
