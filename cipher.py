@@ -11,3 +11,4 @@ print(shift)
 print(type(shift))
 
 alphabet = "abcdefghijklmnopqrstuvwxyz"
+alphabet.find('z')
