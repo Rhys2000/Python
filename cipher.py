@@ -7,3 +7,4 @@ print(len(text))
 print(type(text))
 
 shift = 3
+print(shift)
